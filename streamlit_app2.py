@@ -134,7 +134,7 @@ with st.sidebar:
     st.header("⚙️ Configuration")
     api_base_url = st.text_input(
         "API Base URL",
-        value="https://abc-lpk5.onrender.com/",
+        value="https://abc-lpk5.onrender.com",
         help="The base URL of your TRIPPY API"
     )
 
